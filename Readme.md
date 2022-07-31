@@ -11,4 +11,6 @@ It took me **40Min** to complete this project
 ![](./thumbnail.png)
 
 
+[Live-Link](https://crush-competition.netlify.app/)
+
 ![](https://img.shields.io/badge/Instructor-Hitesh%20choudhary-orange)
